@@ -17,9 +17,9 @@ Then I'll create a demo of this method by referring linux kernel.
 
 ### Task Lists
 
-[ ] add cross-reference of my projects
-[ ] read papers of CBQ, see below for details.
-[ ] read kernel code of CBQ.
+- [ ] add cross-reference of my projects
+- [ ] read papers of CBQ, see below for details.
+- [ ] read kernel code of CBQ.
 
 ### Reference
 1. https://www.icir.org/floyd/cbq.html
