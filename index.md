@@ -29,9 +29,9 @@ In this project, First, I'll try to read 5+ papers about packet classification, 
 method. Then, I'll do a summary of this top.
 
 #### Task Lists
-- [] read papers
-- [] learn basic data structure and algorithm related to each method
-- [] do a summary
+- [ ] read papers
+- [ ] learn basic data structure and algorithm related to each method
+- [ ] do a summary
 
 #### Reference
 1. Gupta P, McKeown N. Algorithms for packet classification[J]. IEEE Network, 2001, 15(2): 24-32.
@@ -42,8 +42,8 @@ method. Then, I'll do a summary of this top.
 In this project, First, I'll try to summary the 1R2C, 2R3C etc. Then try to create a demo.
 
 #### Task Lists
-- [] summarize the method
-- [] create the demo
+- [ ] summarize the method
+- [ ] create the demo
 
 #### Reference
 1. 
