@@ -8,6 +8,12 @@ Here are themes and projects that I'm intested in.
 - Software-define Network (SDN) and OpenFlow
 - QoS
 
+## Focused
+
+### Open Network OS
+#### Reference
+1. Berde P, Gerola M, Hart J, et al. ONOS: towards an open, distributed SDN OS[C]//Proceedings of the third workshop on Hot topics in software defined networking. ACM, 2014: 1-6.
+
 ## Projects
 
 ### Class-base queueing (CBQ)
